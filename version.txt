@@ -1,1 +1,2 @@
 this is version 6
+learning Git from codeharry.com
